@@ -38,4 +38,4 @@ chmod 755 ~/DropboxAltStarter.app/Contents/MacOS/DropboxAltStarter
 ```
 
 
-This repo is based on [tutorial by Damine](https://www.maketecheasier.com/run-multiple-dropbox-accounts-in-mac-and-linux/)
+This repo is based on tutorial by Damien's blog [maketecheasier]](https://www.maketecheasier.com/run-multiple-dropbox-accounts-in-mac-and-linux/)
