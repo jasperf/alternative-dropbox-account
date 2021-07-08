@@ -50,7 +50,7 @@ chmod 755 ~/DropboxAltStarter.app/Contents/MacOS/DropboxAltStarter
 
 ## Login Items
 
-Do not forget to go to system preferences > login items to add your new app to startup items so you do not have to start the alternative Dropbox application on startup each time.
+Do not forget to go to system preferences > login items to add your new app to startup items `~/DropboxAltStarter.app` so you do not have to start the alternative Dropbox application on startup each time.
 
 ## Source
 
